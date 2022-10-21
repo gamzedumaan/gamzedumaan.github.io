@@ -1,0 +1,37 @@
+*{
+    background-color: #EDDFB3;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    color: #876445 ;
+    background-color: #876445;
+    margin-top: auto;
+}
+p,li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #CA955C;
+    padding: 0 20px 20px 20px;
+    border: 8px solid #876445;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  img {
+  height: 100px;
+  width: 100;
+  border-radius: 8px;
+  border: 2px solid #876445;
+margin: 10px;
+padding: 10px;
+  }
